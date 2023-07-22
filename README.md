@@ -11,10 +11,10 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://www.mzsq.top/"><img src="https://img.shields.io/badge/website-个人社区-blue"></a>&emsp;
+  <a href="https://home.mzsq.top/"><img src="https://img.shields.io/badge/召文の小窝-主页-00ffff"></a>&emsp;
+  <a href="https://www.mzsq.top/"><img src="https://img.shields.io/badge/猫爪社区-社区-blue"></a>&emsp;
+  <a href="https://music.mzsq.top/"><img src="https://img.shields.io/badge/召文云音乐-音乐-ff6633"></a>&emsp;
   <a href="https://space.bilibili.com/525001911"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anzhiyu-c" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
