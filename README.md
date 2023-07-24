@@ -16,21 +16,12 @@
   <a href="https://music.mzsq.top/"><img src="https://img.shields.io/badge/召文云音乐-音乐-ff6633"></a>&emsp;
   <a href="https://space.bilibili.com/525001911"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anzhiyu-c" /></div>
-
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
 
 # 🙋 Hello
 
 欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
-
-但是记学习真的是一个很棒的习惯 💪，每次一次学习别人的东西转变成为自己的，都是一次成长，了解为什么要这么做，为什么不这么做 ⚡
-
-每周我都会尽量进行更新 ☁️，如果没更的话，可能是我忘了，也可能是我在钻研某个东西的时候太入迷了 ~~肯定又熬夜了~~
-
-~~同学们不要学我，老是熬夜会长痘~~
 
 💪 正在学习:
 
@@ -77,7 +68,7 @@
 <!-- 连续提交代码天数记录 -->
 <p align="center">
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzhiyu-c&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cat-zhua&theme=dark&hide_border=true" />
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p>
 
@@ -86,41 +77,14 @@
 <br>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=anzhiyu-c&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=cat-zhua&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=anzhiyu-c&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzhiyu-c&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cat-zhua&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cat-zhua&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
-
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 19 June 2023 - To: 19 July 2023
-
-Total Time: 96 hrs 20 mins
-
-Vue.js                     36 hrs 20 mins  █████████▒░░░░░░░░░░░░░░░   37.24 %
-TypeScript                 18 hrs 35 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
-Markdown                   10 hrs 57 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-YAML                       7 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-Stylus                     6 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-```
-
-<!--END_SECTION:waka-->
-
-</tr>
-</table>
-
-<!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=anzhiyu-c&theme=xcode" /></div>
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
