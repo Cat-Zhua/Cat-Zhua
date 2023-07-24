@@ -82,7 +82,7 @@
 </p>
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c@main/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="https://github.com/Cat-Zhua/Cat-Zhua/blob/main/base_metrics.svg" alt="base metrics"/></div>
 <br>
 
 <!-- GitHub奖杯🏆 -->
@@ -94,33 +94,6 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=anzhiyu-c&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzhiyu-c&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
-
-<!-- 最近博客和豆瓣动态 -->
-<table align="center" >
-<tr>
-<td valign="top">
-
-### 🤹‍♀️ <a href="https://www.mzsq.top/" target="_blank">Recent Blog</a>
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.anheyu.com/posts/dfb3.html' target='_blank'>10分钟2700w请求的攻击我是如何处理的</a> - 2023-07-16
-* <a href='https://blog.anheyu.com/posts/2594.html' target='_blank'>通义万相上手体验</a> - 2023-07-09
-* <a href='https://blog.anheyu.com/posts/e140.html' target='_blank'>html 属性Accesskey详细解析</a> - 2023-07-01
-* <a href='https://blog.anheyu.com/posts/39a9.html' target='_blank'>全新卡片式外链标签引入</a> - 2023-06-30
-* <a href='https://blog.anheyu.com/posts/a76e.html' target='_blank'>音乐meting自建api</a> - 2023-06-08
-<!-- END_SECTION:blog -->
-
-</td>
-<td valign="top">
-  
-### 🤾‍♂️ <a href="https://www.douban.com/people/252613592" target="_blank">Funny Soul</a>
-
-<!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35691909/' target='_blank'>想看鬼灭之刃 浅草篇</a> - 2022-03-02
-* <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2022-01-09
-<!-- END_SECTION:douban -->
-
-</table>
 
 <!-- wakatime 统计 -->
 <table align="center">
@@ -153,7 +126,7 @@ Stylus                     6 hrs 2 mins    █▓░░░░░░░░░░�
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c@main/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="https://github.com/Cat-Zhua/Cat-Zhua/blob/main/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
   <img src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/rocket-banner.jpg"/>
 </div>
 
@@ -161,6 +134,5 @@ Stylus                     6 hrs 2 mins    █▓░░░░░░░░░░�
 
 <!-- BiliBili和CSDN数据 -->
 <div align="center">
-  <a href="https://space.bilibili.com/372204786"><img src="https://stats.justsong.cn/api/bilibili/?id=372204786"/></a>
-  <a href="https://blog.csdn.net/CZW2268025923?spm=1001.2014.3001.5343"><img src="https://stats.justsong.cn/api/csdn?id=CZW2268025923?spm=1001.2014.3001.5343"/></a>
+  <a href="https://space.bilibili.com/525001911"><img src="https://stats.justsong.cn/api/bilibili/?id=525001911"/></a>
 </div>
